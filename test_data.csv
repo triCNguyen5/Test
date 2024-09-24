@@ -1,0 +1,148 @@
+﻿Tasks,GradeCategory,JTOSatUnSatCount,JTOSatUnSatTotalCount,SatUnSatRepeatSort,TaskTableSortLogic,SelectedDisconnectedSortOrder
+A Min of 3 CATII App. Are Required for CATII Recurrent,Repeat Unsat,1,5,1,54,3
+A Min of 3 CATII App. Are Required for CATII Recurrent,Repeat Sat,1,5,3,54,3
+A Min of 3 CATII App. Are Required for CATII Recurrent,Sat,3,5,4,54,3
+A/C Performance,Repeat Unsat,1,2,1,4,3
+A/C Performance,Sat,1,2,4,4,3
+A/C Systems,Unsat,2,2,2,5,3
+Company Operations Manual (OM-PART A),Repeat Unsat,1,2,1,6,3
+Company Operations Manual (OM-PART A),Sat,1,2,4,6,3
+Controller Pilot Data Link Communications (CPDLC),Sat,2,2,4,7,3
+Decompression,Repeat Unsat,2,3,1,28,3
+Decompression,Repeat Sat,1,3,3,28,3
+"EDTO, North Atlantic or Special Routes",Sat,2,2,4,8,3
+EDTO/MNPS,Sat,2,2,4,9,3
+EGYPTAIR Operations Specifications,Unsat,2,2,2,10,3
+Electrical,Repeat Unsat,2,3,1,29,3
+Electrical,Repeat Sat,1,3,3,29,3
+Electronic Flight Bag (EFB),Unsat,2,2,2,11,3
+Emergency Descent,Repeat Unsat,2,3,1,30,3
+Emergency Descent,Repeat Sat,1,3,3,30,3
+"Emergency Landing (Partial L/G, No Flaps, etc)",Repeat Unsat,2,3,1,31,3
+"Emergency Landing (Partial L/G, No Flaps, etc)",Repeat Sat,1,3,3,31,3
+Engine Failure Missed Approach,Repeat Unsat,1,5,1,55,3
+Engine Failure Missed Approach,Repeat Sat,1,5,3,55,3
+Engine Failure Missed Approach,Sat,3,5,4,55,3
+Engine Start,Repeat Unsat,1,5,1,56,3
+Engine Start,Repeat Sat,1,5,3,56,3
+Engine Start,Sat,3,5,4,56,3
+Error Recovery,Repeat Unsat,1,7,1,68,3
+Error Recovery,Repeat Sat,1,7,3,68,3
+Error Recovery,Sat,5,7,4,68,3
+Flaps,Sat,2,2,4,12,3
+Flight Control,Repeat Unsat,2,3,1,32,3
+Flight Control,Repeat Sat,1,3,3,32,3
+Flight Controls,Unsat,2,2,2,13,3
+High Altitude Stall,Sat,2,2,4,14,3
+Hydraulics,Sat,1,1,4,1,3
+ILS Approach (Coupled) - Crosswind,Repeat Unsat,2,3,1,33,3
+ILS Approach (Coupled) - Crosswind,Repeat Sat,1,3,3,33,3
+In-flight Fire and Smoke Control,Repeat Unsat,2,3,1,34,3
+In-flight Fire and Smoke Control,Repeat Sat,1,3,3,34,3
+Landing Configuration,Repeat Unsat,2,3,1,35,3
+Landing Configuration,Repeat Sat,1,3,3,35,3
+Lateral Offsets,Repeat Unsat,1,5,1,57,3
+Lateral Offsets,Repeat Sat,1,5,3,57,3
+Lateral Offsets,Sat,3,5,4,57,3
+Low Altitude Stall Recovery - Base Leg Configuration,Repeat Unsat,2,3,1,36,3
+Low Altitude Stall Recovery - Base Leg Configuration,Repeat Sat,1,3,3,36,3
+Low Altitude Stall Recovery - Clean Configuration,Repeat Unsat,2,3,1,37,3
+Low Altitude Stall Recovery - Clean Configuration,Repeat Sat,1,3,3,37,3
+Low Altitude Stall Recovery - T/O Configuration,Repeat Unsat,2,3,1,38,3
+Low Altitude Stall Recovery - T/O Configuration,Repeat Sat,1,3,3,38,3
+Low Visibility Take-Off (150/200m RVR) - Rejected T/O With an Engine Failure BeforeV1,Repeat Unsat,1,3,1,39,3
+Low Visibility Take-Off (150/200m RVR) - Rejected T/O With an Engine Failure BeforeV1,Repeat Sat,1,3,3,39,3
+Low Visibility Take-Off (150/200m RVR) - Rejected T/O With an Engine Failure BeforeV1,Sat,1,3,4,39,3
+Low Visibility Take-Off (150/200m RVR) - With Simulated Engine Failure at V1,Repeat Unsat,1,5,1,58,3
+Low Visibility Take-Off (150/200m RVR) - With Simulated Engine Failure at V1,Repeat Sat,1,5,3,58,3
+Low Visibility Take-Off (150/200m RVR) - With Simulated Engine Failure at V1,Sat,3,5,4,58,3
+Low Visibility Take-Off (150/200m RVR) - X- Wind with Loss of Visual Cues After 80/100 Kts,Repeat Unsat,3,5,1,59,3
+Low Visibility Take-Off (150/200m RVR) - X- Wind with Loss of Visual Cues After 80/100 Kts,Repeat Sat,1,5,3,59,3
+Low Visibility Take-Off (150/200m RVR) - X- Wind with Loss of Visual Cues After 80/100 Kts,Sat,1,5,4,59,3
+Low Visibility Taxiing (150/200m RVR),Repeat Unsat,1,5,1,60,3
+Low Visibility Taxiing (150/200m RVR),Repeat Sat,1,5,3,60,3
+Low Visibility Taxiing (150/200m RVR),Sat,3,5,4,60,3
+Manual ILS (CAT I Minima),Repeat Unsat,1,5,1,61,3
+Manual ILS (CAT I Minima),Repeat Sat,1,5,3,61,3
+Manual ILS (CAT I Minima),Sat,3,5,4,61,3
+Manually Controlled Instrument Arrival,Repeat Unsat,2,3,1,40,3
+Manually Controlled Instrument Arrival,Repeat Sat,1,3,3,40,3
+Manually Controlled Instrument Departure,Repeat Unsat,1,3,1,41,3
+Manually Controlled Instrument Departure,Repeat Sat,1,3,3,41,3
+Manually Controlled Instrument Departure,Sat,1,3,4,41,3
+Manually Controlled Loss Of Reliable Airspeed,Repeat Unsat,1,3,1,42,3
+Manually Controlled Loss Of Reliable Airspeed,Repeat Sat,1,3,3,42,3
+Manually Controlled Loss Of Reliable Airspeed,Sat,1,3,4,42,3
+Manually Controlled Slow Flight,Unsat,1,2,2,15,3
+Manually Controlled Slow Flight,Sat,1,2,4,15,3
+Minimum 3 T/O And Landing (Full Stop),Repeat Unsat,2,9,1,69,3
+Minimum 3 T/O And Landing (Full Stop),Unsat,2,9,2,69,3
+Minimum 3 T/O And Landing (Full Stop),Repeat Sat,1,9,3,69,3
+Minimum 3 T/O And Landing (Full Stop),Sat,4,9,4,69,3
+Missed Approach,Repeat Unsat,2,3,1,43,3
+Missed Approach,Repeat Sat,1,3,3,43,3
+Missed Approach and Hold,Sat,2,2,4,16,3
+NAV/Comm. Equipment,Sat,2,2,4,17,3
+Non-Precision Approach  - Crosswind,Repeat Unsat,1,3,1,44,3
+Non-Precision Approach  - Crosswind,Repeat Sat,1,3,3,44,3
+Non-Precision Approach  - Crosswind,Sat,1,3,4,44,3
+Normal,Repeat Unsat,1,5,1,62,3
+Normal,Repeat Sat,1,5,3,62,3
+Normal,Sat,3,5,4,62,3
+Normal and Non-Normal Procedures,Sat,2,2,4,18,3
+Normal Landing,Repeat Unsat,1,5,1,63,3
+Normal Landing,Repeat Sat,1,5,3,63,3
+Normal Landing,Sat,3,5,4,63,3
+Normal Take Off,Repeat Unsat,1,5,1,64,3
+Normal Take Off,Repeat Sat,1,5,3,64,3
+Normal Take Off,Sat,3,5,4,64,3
+North Atlantic En-Route Diversion Scenario,Sat,1,1,4,2,3
+Operational Oriented Questions,Repeat Sat,1,2,3,19,3
+Operational Oriented Questions,Sat,1,2,4,19,3
+PBN Procedures,Unsat,1,2,2,20,3
+PBN Procedures,Sat,1,2,4,20,3
+Pilot Incapacitation,Repeat Unsat,2,3,1,45,3
+Pilot Incapacitation,Repeat Sat,1,3,3,45,3
+Pneumatic,Repeat Unsat,2,3,1,46,3
+Pneumatic,Repeat Sat,1,3,3,46,3
+Pre-Flight And Cockpit Preparation,Repeat Unsat,1,4,1,53,3
+Pre-Flight And Cockpit Preparation,Repeat Sat,2,4,3,53,3
+Pre-Flight And Cockpit Preparation,Sat,1,4,4,53,3
+"R/W Incursion, R/W & T/W Markings",Sat,1,1,4,3,3
+Recovery from Bounced Landing,Sat,2,2,4,21,3
+Rejected At 50 ft,Repeat Unsat,1,3,1,47,3
+Rejected At 50 ft,Repeat Sat,1,3,3,47,3
+Rejected At 50 ft,Sat,1,3,4,47,3
+RVSM,Unsat,1,2,2,22,3
+RVSM,Sat,1,2,4,22,3
+Safety Management System (SMS),Unsat,2,2,2,23,3
+Second ILS Approach (Manual) - Crosswind,Sat,2,2,4,24,3
+Second PBN Approach (RNP APCH),Sat,2,2,4,25,3
+Steep Turns (Min. 180 - Max. 360),Repeat Unsat,2,3,1,48,3
+Steep Turns (Min. 180 - Max. 360),Repeat Sat,1,3,3,48,3
+TCAS,Repeat Unsat,2,3,1,49,3
+TCAS,Repeat Sat,1,3,3,49,3
+Unstabilized Approach,Repeat Unsat,1,3,1,50,3
+Unstabilized Approach,Repeat Sat,1,3,3,50,3
+Unstabilized Approach,Sat,1,3,4,50,3
+UPRT,Repeat Unsat,2,5,1,65,3
+UPRT,Repeat Sat,1,5,3,65,3
+UPRT,Sat,2,5,4,65,3
+Use of Checklist,Repeat Sat,1,2,3,26,3
+Use of Checklist,Sat,1,2,4,26,3
+Vertical Offsets,Repeat Unsat,1,5,1,66,3
+Vertical Offsets,Unsat,2,5,2,66,3
+Vertical Offsets,Repeat Sat,1,5,3,66,3
+Vertical Offsets,Sat,1,5,4,66,3
+Visual Approaches with Manual Thrust,Repeat Unsat,1,3,1,51,3
+Visual Approaches with Manual Thrust,Repeat Sat,1,3,3,51,3
+Visual Approaches with Manual Thrust,Sat,1,3,4,51,3
+Volcanic Ash Training,Unsat,1,2,2,27,3
+Volcanic Ash Training,Sat,1,2,4,27,3
+Windshear,Repeat Unsat,1,3,1,52,3
+Windshear,Repeat Sat,1,3,3,52,3
+Windshear,Sat,1,3,4,52,3
+With 50% Power Plant Failure,Repeat Unsat,1,5,1,67,3
+With 50% Power Plant Failure,Unsat,2,5,2,67,3
+With 50% Power Plant Failure,Repeat Sat,1,5,3,67,3
+With 50% Power Plant Failure,Sat,1,5,4,67,3
